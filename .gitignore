@@ -29,3 +29,15 @@
 /config/master.key
 
 .env
+.env.backup
+.env.production
+.DS_Store
+.idea
+/.fleet
+/.idea
+/.vscode
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+.pnp.*
